@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.state-comp{
+  color:black;
+  border-radius: 12px;
+  border: 1px solid green;
+  margin-top: 1rem;
+  width:200px;
+  height:auto;
+  min-height:50px;
+  text-align: center;
+  padding:0.7rem 0;
+}
+.selection {
+  color: green;
+  
+}
